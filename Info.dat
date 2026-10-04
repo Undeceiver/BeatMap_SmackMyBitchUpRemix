@@ -1,0 +1,51 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "Smack My Bitch Up",
+    "subTitle" : "Noisia remix",
+    "author" : "The Prodigy"
+  },
+  "audio" : {
+    "songFilename" : "song.ogg",
+    "songDuration" : 354.827,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 140,
+    "lufs" : 0,
+    "previewStartTime" : 90,
+    "previewDuration" : 10
+  },
+  "songPreviewFilename" : "song.ogg",
+  "coverImageFilename" : "cover.jpg",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "A-Jhindeceiver"
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 18,
+      "noteJumpStartBeatOffset" : -0.75,
+      "beatmapDataFilename" : "ExpertPlusStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
